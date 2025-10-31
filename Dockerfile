@@ -18,5 +18,4 @@ EXPOSE 3000
 
 # Command to run the app
 CMD ["node", "node.js"]
-peter@peter:~/node-demo$
 
